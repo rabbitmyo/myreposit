@@ -7,6 +7,7 @@
 <title>Git</title>
 </head>
 <body>
-	<h2> Git수업 재밋네!</h2>
+	<h2> Git수업 재밋네! </h2>
+	<h3> 태그 추가</h3>
 </body>
 </html>
