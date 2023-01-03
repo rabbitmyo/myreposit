@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+    깃에서 템플릿 업데이트
 </body>
 </html>
