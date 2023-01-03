@@ -7,10 +7,12 @@
 <title>Git</title>
 </head>
 <body>
-<<<<<<< HEAD
+
 	<h2> Git수업 재밋네! </h2>
 	<h3> 태그 추가</h3>
 	<h3> 태그 추가2</h3>
 	<h3> 태그 추가3</h3>
+	<h3> 태그 추가4</h3>
+
 </body>
 </html>
